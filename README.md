@@ -28,8 +28,7 @@ You stay in control from start to finish — using just your words.
    👉 **If you don’t approve it, the system will not generate any implant.**
 
 3. **CP3 — First draft: The system creates an initial implant shape**  
-   Using a statistical shape model and/or expert-designed templates mapped to the patient’s orbit,  
-   the system generates a smart “first draft” implant surface that roughly fits the defect.  
+   Using a statistical shape model and/or expert-designed templates mapped to the patient’s orbit, the system generates a smart “first draft” implant surface that roughly fits the defect.  
    You review this baseline — and only after you say **“Confirm”** in the chat does the system move on.
 
 4. **CP4 — Chat & adjust: Refine the boundaries through simple text commands**  
