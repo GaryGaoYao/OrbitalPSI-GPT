@@ -4,6 +4,11 @@ Code repository for **OrbitalPSI-GPT**, accompanying the work:
 
 > **“A Text-Driven Clinician-in-the-Loop Approach to Accessible Patient-Specific Orbital Implant Design in Low-Resource Settings.”**
 
+## 🎥 Demo Video (to be updated)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Ei5kIv9zSos)
+[![Bilibili](https://img.shields.io/badge/Bilibili-视频-blue?logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV18nWdzSE9j/)
+
 ## ✅ Clinician-in-the-loop Workflow
 
 We break the design process into a few simple checkpoints (CP0–CP4).  
@@ -29,14 +34,6 @@ You stay in control from start to finish with just your words.
 
    The system interprets your text and updates the 3D model in real time.  
    You can go back and forth as many times as needed until it looks right.
-
-## 🎥 Demo Video (to be updated)
-
-**English version (YouTube)**  
-[![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Ei5kIv9zSos)
-
-**中文版（Bilibili）**  
-[![Bilibili](https://img.shields.io/badge/Bilibili-视频-blue?logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV18nWdzSE9j/)
 
 ## 🧠 System Overview
 
