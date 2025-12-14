@@ -8,8 +8,7 @@ Code repository for **OrbitalPSI-GPT**, accompanying the work:
 
 ## 🎥 Demo Video (to be updated)
 
-[![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Ei5kIv9zSos)
-[![Bilibili](https://img.shields.io/badge/Bilibili-视频-blue?logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV18nWdzSE9j/)
+to be updated
 
 ---
 
