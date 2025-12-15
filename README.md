@@ -7,7 +7,7 @@ Code repository for **OrbitalPSI-GPT**, accompanying the work:
 
 ## 🎥 Demo Video
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17936808.svg)](https://doi.org/10.5281/zenodo.17936808)
+ZENODO: https://doi.org/10.5281/zenodo.17936808
 
 ## 🧠 System Overview
 OrbitalPSI-GPT enables surgeons to design patient-specific orbital implants through natural-language instructions, without requiring CAD expertise or proprietary software, particularly in low-resource settings.
