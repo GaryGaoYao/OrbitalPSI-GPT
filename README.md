@@ -8,6 +8,10 @@ Code repository for **OrbitalPSI-GPT**, accompanying the work:
 ## 🎥 Demo Video
 
 **Zenodo (Restricted Access):** https://doi.org/10.5281/zenodo.17936808
+        
+        
+        
+        
       
 <details>
 <summary><b>Availability</b> (click to expand)</summary>
@@ -19,20 +23,18 @@ Code repository for **OrbitalPSI-GPT**, accompanying the work:
 
 </details>
 
-
-
 ## 🧠 System Overview
-OrbitalPSI-GPT enables surgeons to design patient-specific orbital implants through natural-language instructions, without requiring CAD expertise or proprietary software, particularly in low-resource settings.
-
-For more information or technical details, please refer to our paper (to be updated upon publication):  
+OrbitalPSI-GPT enables surgeons to design patient-specific orbital implants through natural-language instructions, without requiring CAD expertise or proprietary software, particularly in low-resource settings. For more information or technical details, please refer to our paper (to be updated upon publication):
 
 <img src="assets/Github.svg" alt="Figure" width="1400">
-
 
 ## ✅ Clinician-in-the-loop Workflow
 
 We break the design process into a few simple checkpoints (CP0–CP4).  
 You stay in control from start to finish — using just your words.
+
+<details>
+<summary><b>Workflow</b> (click to expand)</summary>
 
 1. **CP0 — Case setup: Tell the system what’s going on**  
    You start by giving a short description of the case (which side, what type of defect, etc.).  
@@ -48,11 +50,9 @@ You stay in control from start to finish — using just your words.
    You review this baseline — and only after you say **“Confirm”** in the chat does the system move on.
 
 4. **CP4 — Chat & adjust: Refine the boundaries through simple text commands**  
-   Now comes the interactive part. You talk to the system to fine-tune the template-based implant, for example:  
-   > “Move the inner wall edge 2 mm inward.”  
-   > “Undo all changes!”  
-
    The system interprets your text and updates the 3D model in real time. You can go back and forth as many times as needed until it looks right.
+
+</details>
 
 ## 📚 Citation
 
