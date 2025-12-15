@@ -8,16 +8,8 @@ Code repository for **OrbitalPSI-GPT**, accompanying the work:
 
 ## 🎥 Demo Video
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17936808.svg
-        
-        
-        
-        )](https://doi.org/10.5281/zenodo.17936808
-        
-        
-        
-        )
----
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17936808.svg)](https://doi.org/10.5281/zenodo.17936808)
+
 
 ## ✅ Clinician-in-the-loop Workflow
 
