@@ -9,6 +9,9 @@ Code repository for **OrbitalPSI-GPT**, accompanying the work:
 
 ZENODO: https://doi.org/10.5281/zenodo.17936808
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17936808.svg)](https://doi.org/10.5281/zenodo.17936808)
+
+
 ## 🧠 System Overview
 OrbitalPSI-GPT enables surgeons to design patient-specific orbital implants through natural-language instructions, without requiring CAD expertise or proprietary software, particularly in low-resource settings.
 
@@ -32,7 +35,7 @@ You stay in control from start to finish — using just your words.
    👉 **If you don’t approve it, the system will not generate any implant.**
 
 3. **CP3 — First draft: The system creates an initial implant shape**  
-   Using a statistical shape model and/or expert-designed templates mapped to the patient’s orbit, the system generates a smart “first draft” implant surface that roughly fits the defect.  
+   Using expert-designed templates mapped to the patient’s orbit virtual reconstructions, the system generates a smart “first draft” implant surface that roughly fits the defect.  
    You review this baseline — and only after you say **“Confirm”** in the chat does the system move on.
 
 4. **CP4 — Chat & adjust: Refine the boundaries through simple text commands**  
