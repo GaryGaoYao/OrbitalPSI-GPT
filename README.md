@@ -44,8 +44,6 @@ You stay in control from start to finish — using just your words.
 
 OrbitalPSI-GPT enables surgeons to design patient-specific orbital implants through natural-language instructions, without requiring CAD expertise or proprietary software, particularly in low-resource settings.
 
-![System overview](https://github.com/user-attachments/assets/489e123c-d79b-405d-92ff-e4672b8753a8)
-
 For more information and technical details, please refer to our paper (to be updated upon publication):  
 **DOI: TBA**
 
