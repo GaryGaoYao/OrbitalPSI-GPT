@@ -2,7 +2,7 @@
 
 Code repository for **OrbitalPSI-GPT**, accompanying the work:
 
-> **“A Text-Driven Clinician-in-the-Loop Approach to Accessible Patient-Specific Orbital Implant Design in Low-Resource Settings.”**
+> **A Text-Driven Clinician-in-the-Loop Approach to Accessible Patient-Specific Orbital Implant Design in Low-Resource Settings.**
 
 ---
 
