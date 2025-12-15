@@ -4,14 +4,11 @@ Code repository for **OrbitalPSI-GPT**, accompanying the work:
 
 > **A Text-Driven Clinician-in-the-Loop Approach to Accessible Patient-Specific Orbital Implant Design in Low-Resource Settings.**
 
----
 
 ## 🎥 Demo Video
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17936808.svg)](https://doi.org/10.5281/zenodo.17936808)
 
----
----
 ## 🧠 System Overview
 OrbitalPSI-GPT enables surgeons to design patient-specific orbital implants through natural-language instructions, without requiring CAD expertise or proprietary software, particularly in low-resource settings.
 
@@ -19,7 +16,6 @@ For more information or technical details, please refer to our paper (to be upda
 
 <img src="assets/Github.svg" alt="Figure" width="1400">
 
----
 
 ## ✅ Clinician-in-the-loop Workflow
 
@@ -45,8 +41,6 @@ You stay in control from start to finish — using just your words.
    > “Undo all changes!”  
 
    The system interprets your text and updates the 3D model in real time. You can go back and forth as many times as needed until it looks right.
-
----
 
 ## 📚 Citation
 
