@@ -34,8 +34,7 @@ You stay in control from start to finish — using just your words.
    > “Move the inner wall edge 2 mm inward.”  
    > “Undo all changes!”  
 
-   The system interprets your text and updates the 3D model in real time.  
-   You can go back and forth as many times as needed until it looks right.
+   The system interprets your text and updates the 3D model in real time. You can go back and forth as many times as needed until it looks right.
 
 ---
 
