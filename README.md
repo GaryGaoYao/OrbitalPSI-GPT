@@ -8,13 +8,14 @@ Code repository for **OrbitalPSI-GPT**, accompanying the work:
 ## 🎥 Demo Video
 
 **Zenodo (Restricted Access):** https://doi.org/10.5281/zenodo.17936808
-
+      
 <details>
 <summary><b>Availability</b> (click to expand)</summary>
 
 - The video is currently under **Restricted Access**.
 - It will be made **publicly available after the publication** of our work.
 - The Zenodo DOI remains stable and can be cited at any time.
+- Researchers wishing to access the video before publication may request access directly via the Zenodo page or email: gary.gaoyao@gmail.com.
 
 </details>
 
