@@ -10,7 +10,6 @@ Code repository for **OrbitalPSI-GPT**, accompanying the work:
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17936808.svg)](https://doi.org/10.5281/zenodo.17936808)
 
-
 ## ✅ Clinician-in-the-loop Workflow
 
 We break the design process into a few simple checkpoints (CP0–CP4).  
@@ -41,9 +40,10 @@ You stay in control from start to finish — using just your words.
 ## 🧠 System Overview
 
 OrbitalPSI-GPT enables surgeons to design patient-specific orbital implants through natural-language instructions, without requiring CAD expertise or proprietary software, particularly in low-resource settings.
+For more information or technical details, please refer to our paper (to be updated upon publication):  
 
-For more information and technical details, please refer to our paper (to be updated upon publication):  
-**DOI: TBA**
+<img src="assets/Github.svg" alt="Figure" width="1400">
+
 
 ---
 
