@@ -6,9 +6,9 @@ Code repository for **OrbitalPSI-GPT**, accompanying the work:
 
 ---
 
-## 🎥 Demo Video (to be updated)
+## 🎥 Demo Video
 
-to be updated
+
 
 ---
 
