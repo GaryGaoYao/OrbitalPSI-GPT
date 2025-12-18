@@ -8,11 +8,7 @@ Code repository for **OrbitalPSI-GPT**, accompanying the work:
 ## 🎥 Demo Video
 
 **Zenodo (Restricted Access):** https://doi.org/10.5281/zenodo.17936808
-        
-        
-        
-        
-      
+   
 <details>
 <summary><b>Availability</b> (click to expand)</summary>
 
@@ -28,7 +24,7 @@ OrbitalPSI-GPT enables surgeons to design patient-specific orbital implants thro
 
 <img src="assets/Github.svg" alt="Figure" width="1400">
 
-## ✅ Clinician-in-the-loop Workflow
+## ✅ Clinician-in-the-loop Workflow （Our highlights）
 
 We break the design process into a few simple checkpoints (CP0–CP4).  
 You stay in control from start to finish — using just your words.
@@ -53,6 +49,22 @@ You stay in control from start to finish — using just your words.
    The system interprets your text and updates the 3D model in real time. You can go back and forth as many times as needed until it looks right.
 
 </details>
+
+## 📦 Assets & Releases (Our Open Access Promise)
+
+<details>
+<summary><b>Open Source Promise</b> (Click to expand)</summary>
+
+**1. Standalone Software (One-stop Solution):**
+*(Link to be updated)* - A portable `.exe` for instant usage. No setup required.
+
+**2. Research Assets:**
+For those interested in our AI framework or modular implementation, you can access our datasets and weights here:
+* **Dataset (Automated Landmark Detection):** *(Link to be updated)*
+* **Model Weights (Automated Landmark Detection):** *(Link to be updated)*
+
+</details>
+
 
 ## 📚 Citation
 
