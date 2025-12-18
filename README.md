@@ -1,4 +1,4 @@
-# Designing Patient-Specific Orbital Implants with Just Your Words
+# Designing Patient-Specific Orbital Implants with Just Your Words （In Preparation）
 
 Code repository for **OrbitalPSI-GPT**, accompanying the work:
 
