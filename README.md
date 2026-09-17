@@ -83,3 +83,12 @@ If you use **OrbitalPSI-GPT** in your research or clinical work, please cite:
   year    = {2025},
   note    = {Manuscript in preparation},
 }
+```
+
+### Restricted Model Access
+
+The source code and benchmarking materials are publicly available in this repository.
+
+The original trained model weights and fitted statistical shape model used in the study are not publicly distributed because they were developed using institutionally governed clinical data.
+
+Researchers interested in accessing these materials should complete the [Model Access Request](MODEL_ACCESS_REQUEST.md). Requests will be reviewed subject to applicable UZ Leuven ethical and data-governance requirements.
