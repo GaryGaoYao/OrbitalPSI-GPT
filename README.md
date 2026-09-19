@@ -228,18 +228,6 @@ Examples:
 Extend the posterior boundary by 1.5 mm.
 ```
 
-```text
-Reduce the medial-wall coverage.
-```
-
-```text
-Increase clearance around the optic canal.
-```
-
-```text
-Move the fixation tab anteriorly.
-```
-
 The geometry is regenerated after each accepted instruction and returned for subsequent inspection.
 
 ---
@@ -286,13 +274,6 @@ These resources cannot be distributed as unrestricted public downloads.
 | ------------------------------- | ---------------------------------------- | ----------------------------------------------- |
 | **Clinical Production Weights** | UZ Leuven clinical research cohort       | [Model Access Request](MODEL_ACCESS_REQUEST.md) |
 | **Statistical Shape Model**     | Institutionally governed clinical cohort | Institutional agreement / DTA                   |
-
-Requests are subject to applicable:
-
-* institutional governance;
-* ethical approval;
-* privacy requirements; and
-* regulatory requirements.
 
 ---
 
